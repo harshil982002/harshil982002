@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @harshil982002
+- 🌱 I’m currently studying in First year of Computer Engineering in Charotar University
+- 📫 To reach me : harshilpatel982002@gmail.com
