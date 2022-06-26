@@ -1,4 +1,4 @@
-<h4>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> My name is Harshil Patel</h4>
+<h4>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> My name is Harshil Patel</h4>
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" height="300"/>
 </div>
