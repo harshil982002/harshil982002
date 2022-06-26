@@ -1,4 +1,8 @@
-Hi 👋 My name is Harshil Patel
+<h4>Hi 👋 My name is Harshil Patel</h4>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+</div>
+
 =============================
 
 Web developer
